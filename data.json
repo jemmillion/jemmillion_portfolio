@@ -1,0 +1,90 @@
+{
+  "resumeTitle": {
+    "title": "Yeonjae Cho"
+  },
+
+  "information": {
+    "name": "조연재",
+    "contact": [
+      { "id": 0, "name": "Email", "href": "whduswo94@gmail.com", "isEmail": true },
+      { "id": 1, "name": "Github", "href": "https://github.com/jemmillion" }
+    ]
+  },
+
+  "workExperience": [
+    {
+      "id": 0,
+      "name": "유니포스트",
+      "position": "풀스택 개발자",
+      "period": ["2021. 09", "재직중"],
+      "department": "솔루션WEB팀",
+      "description": "- 본사 이어카운팅 솔루션 개선 업무\n  - 이어카운팅 프로그램 고객사 구축 및 커스터마이징\n  - 오픈 후 1~2개월 운영업무\n- 중계서버 카드, 세금계산서 데이터 연계 서비스 설치 및 데이터 연계\n  - MSSQL 사용하여 데이터 조회 업무"
+    }
+  ],
+
+  "project": [
+    {
+      "id": 0,
+      "name": "첫번째 팀 프로젝트",
+      "description": "프로젝트에 대한 간단한 설명을 적을 수 있습니다. 어떤 프로젝트인지 주제나 강조하고 싶은 부분을 적어보세요.",
+      "webUrl": "https://github.com/sjoleee/",
+      "repoUrl": "https://github.com/sjoleee/",
+      "isTeam": true,
+      "period": ["2022. 07", "2022. 09"],
+      "stack": ["사용한 기술을 적어주세요", "React.js", "JavaScript", "styled-components", "Recoil"]
+    },
+    {
+      "id": 1,
+      "name": "첫번째 개인 프로젝트",
+      "description": "프로젝트에 대한 간단한 설명을 적을 수 있습니다. 어떤 프로젝트인지 주제나 강조하고 싶은 부분을 적어보세요.",
+      "webUrl": "https://github.com/sjoleee/",
+      "repoUrl": "https://github.com/sjoleee/",
+      "isTeam": false,
+      "period": ["2022. 10", "2022. 11"],
+      "stack": ["JavaScript", "HTML/CSS"]
+    }
+  ],
+
+  "education": [
+    {
+      "id": 0,
+      "name": "성신여자대학교",
+      "period": ["2012. 03", "2017. 02"],
+      "description": "지리학과 전공, 중어중문학과 복수전공"
+    },
+    {
+      "id": 1,
+      "name": "쌍용교육센터",
+      "period": ["2021. 02", "2021. 06"],
+      "description": "자바JAVA를 활용한 풀스택 융합 SW개발"
+    },
+    {
+      "id": 2,
+      "name": "한국방송통신대학교",
+      "period": ["2021. 03", ""],
+      "description": "컴퓨터과학과 전공"
+    }
+  ],
+
+  "certificate": [
+    {
+      "id": 0,
+      "name": "SQL 개발자",
+      "date": "2021.10",
+      "organizer": "한국데이터산업진흥원"
+    },
+    {
+      "id": 1,
+      "name": "TOEIC 890점",
+      "date": "2023.06",
+      "organizer": "ETS"
+    },
+    {
+      "id": 2,
+      "name": "정보처리기사",
+      "date": "2023.09",
+      "organizer": "한국산업인력공단"
+    }
+  ]
+
+}
