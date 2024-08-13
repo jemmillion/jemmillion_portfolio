@@ -12,6 +12,7 @@ export interface WorkExperienceProps {
   period: string[];
   department: string;
   description: string;
+  stack: string[];
   markdown?: string;
   imgSrc?: string;
 }

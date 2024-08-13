@@ -18,7 +18,8 @@
       "position": "풀스택 개발자",
       "period": ["2021. 09", "재직중"],
       "department": "솔루션WEB팀",
-      "description": "- 본사 이어카운팅 솔루션 개선 업무\n  - 이어카운팅 프로그램 고객사 구축 및 커스터마이징\n  - 오픈 후 1~2개월 운영업무\n- 중계서버 카드, 세금계산서 데이터 연계 서비스 설치 및 데이터 연계\n  - MSSQL 사용하여 데이터 조회 업무"
+      "description": "- 본사 이어카운팅 솔루션 개선 업무\n  - 이어카운팅 프로그램 고객사 구축 및 커스터마이징\n  - 오픈 후 1~2개월 운영업무\n- 중계서버 카드, 세금계산서 데이터 연계 서비스 설치 및 데이터 연계\n  - MSSQL 사용하여 데이터 조회 업무",
+      "stack": ["JavaScript", "Java", "React.js", "TypeScript", "HTML/CSS", "mustache"]
     }
   ],
 
@@ -69,18 +70,24 @@
   "certificate": [
     {
       "id": 0,
+      "name": "新HSK 6급",
+      "date": "2020.01",
+      "organizer": "중국국가한반"
+    },
+    {
+      "id": 1,
       "name": "SQL 개발자",
       "date": "2021.10",
       "organizer": "한국데이터산업진흥원"
     },
     {
-      "id": 1,
+      "id": 2,
       "name": "TOEIC 890점",
       "date": "2023.06",
       "organizer": "ETS"
     },
     {
-      "id": 2,
+      "id": 3,
       "name": "정보처리기사",
       "date": "2023.09",
       "organizer": "한국산업인력공단"
