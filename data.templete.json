@@ -34,14 +34,6 @@
     }
   ],
 
-  "activity": [
-    {
-      "id": 0,
-      "name": "",
-      "period": ["", ""],
-      "description": ""
-    }
-  ],
   "education": [
     {
       "id": 0,
@@ -58,15 +50,6 @@
       "date": "",
       "organizer": ""
     }
-  ],
-
-  "award": [
-    {
-      "id": 0,
-      "name": "",
-      "date": "",
-      "organizer": "",
-      "description": ""
-    }
   ]
+
 }

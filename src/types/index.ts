@@ -10,7 +10,7 @@ export interface WorkExperienceProps {
   name: string;
   position: string;
   period: string[];
-  team: string;
+  department: string;
   description: string;
   markdown?: string;
   imgSrc?: string;
