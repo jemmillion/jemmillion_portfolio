@@ -7,7 +7,8 @@
     "name": "조연재",
     "contact": [
       { "id": 0, "name": "Email", "href": "whduswo94@gmail.com", "isEmail": true },
-      { "id": 1, "name": "Github", "href": "https://github.com/jemmillion" }
+      { "id": 1, "name": "Github", "href": "https://github.com/jemmillion" },
+      { "id": 2, "name": "Blog", "href": "https://jemjemmmi.tistory.com" }
     ]
   },
 
