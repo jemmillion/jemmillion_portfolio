@@ -71,6 +71,12 @@
       "name": "한국방송통신대학교",
       "period": ["2021. 03", ""],
       "description": "컴퓨터과학과 전공"
+    },
+    {
+      "id": 4,
+      "name": "스파르타코딩클럽",
+      "period": ["2025. 06", ""],
+      "description": "Java Spring 마스터 과정 2기"
     }
   ],
 
